@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Muhammad Hamza
+- 👀 I’m interested in AI, DevOps, Scripting, Offensive Security
+- 🌱 I’m currently learning Diploma in DevOps & Cloud Advancement (RQF Level 4)
+- 📫 How to reach me reachmuhammadhamza@gmail.com
